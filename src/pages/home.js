@@ -1,9 +1,7 @@
 import Layout from "../components/layout/Layout"
-import NavBar from "../components/layout/Navbar"
 import {Container , 
         Card , 
-        Alert,
-        CardBody , 
+        Alert, 
         CardTitle,
         CardText,
         Button , 
