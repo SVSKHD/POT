@@ -1,7 +1,6 @@
 import {
     Card,
     CardBody,
-    Container
 } from "reactstrap"
 import SV from "../../SV.png"
 import OffcanvasMenu from 'react-offcanvas-menu-component'; 
